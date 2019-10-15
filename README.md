@@ -19,7 +19,7 @@ composer create-project --prefer-dist -s dev "githubjeka/rest-yii2" .
 ```
 
 ###GETTING STARTED
-
+ 
 After you install the application, you have to conduct the following steps to initialize the installed application.
 You only need to do these once for all.
 
